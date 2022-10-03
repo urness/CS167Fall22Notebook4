@@ -2,11 +2,13 @@
 
 For this notebook, you are going to demonstrate how to use the scikit-learn library (https://scikit-learn.org) to perform machine learning experiments. 
 ## The Data :bar_chart: 
-You will use a new dataset that deals with wine quality :wine_glass: (available in the "Datasets" section of the blackboard website. 
+You will use a new dataset that deals with housing prices in the Boston neighborhood. (available in the "Datasets" section of the blackboard website. 
 
-The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors** and **Decision Trees** to make predictions on the quality of wine based on 1599 learning examples. 
+The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors** and **Decision Trees** to make predictions on the 'medv' target variable based on 1599 learning examples. 
 
 ## The Exercises:
+**Part 0: [0 points]** Is your name at the top of your submission? Is it submitted in the proper repository in github?
+
 **Part 1: [3 points]** You must run at least 6 variations of the algorithms and display their results using an appropriate regression metric (again, use the scikit-learn modules). I will be looking for the following to be included in your comparison:
 * k-Nearest-Neighbor with a small value of k
 * k-Nearest-Neighbor with a large value of k
@@ -30,9 +32,10 @@ I will update the following rubric with your grade after you have completed the 
 ### Rubric:
 | Exercise #  | Points Awarded (out of 1)  | Notes |
 | --------- | ------------------- | --------- |
+| 0: name? repo?     |        |    |
 | 1.1: knn           |        |    |
 | 1.2: wKNN          |        |    | 
 | 1.3: Decision Tree |        |    |
 | 2: Normalize       |        |    | 
 | 3: Conclusions     |        |    |
-| <b>Total           |    /5 | </b>   |
+| <b>Total           |    /6 | </b>   |
