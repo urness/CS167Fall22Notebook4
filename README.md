@@ -2,7 +2,7 @@
 
 For this notebook, you are going to demonstrate how to use the scikit-learn library (https://scikit-learn.org) to perform machine learning experiments. 
 ## The Data :bar_chart: 
-You will use a new dataset that deals with housing prices in the Boston neighborhood that was collected in 1978. (available as 'HousingData.csv' in the "Datasets" section of the blackboard website. 
+You will use a new dataset that deals with housing prices in the Boston neighborhood that was collected in 1978. (available as 'HousingData.csv' in the "Datasets" section of the blackboard website.) 
 
 The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors** and **Decision Trees** to make predictions on the 'MEDV' (median value in $1,000's) target variable based on the learning examples. 
 
