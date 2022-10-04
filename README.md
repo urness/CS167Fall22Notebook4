@@ -6,7 +6,7 @@ You will use a new dataset that deals with housing prices in the Boston neighbor
 
 The goal for this machine learning exercise is to use the scikit-learn library implementation of **k-Nearest-Neighbors** and **Decision Trees** to make predictions on the 'MEDV' (median value in $1,000's) target variable based on the learning examples. 
 
-There are 14 attributes in each case of the dataset. They are:
+There are 13 attributes in each case of the dataset. They are:
 * CRIM - per capita crime rate by town
 * ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
 * INDUS - proportion of non-retail business acres per town.
@@ -18,7 +18,6 @@ There are 14 attributes in each case of the dataset. They are:
 * RAD - index of accessibility to radial highways
 * TAX - full-value property-tax rate per $10,000
 * PTRATIO - pupil-teacher ratio by town
-* B - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
 * LSTAT - % lower status of the population
 * MEDV - Median value of owner-occupied homes in $1000's
 
