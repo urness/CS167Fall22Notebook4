@@ -23,7 +23,7 @@ There are 14 attributes in each case of the dataset. They are:
 * MEDV - Median value of owner-occupied homes in $1000's
 
 ## The Exercises:
-**Part 0: [1 point]** Is your name at the top of your submission? Is it submitted in the proper Notebook 3 repository in github?
+**Part 0: [1 point]** Is your name at the top of your submission? Is it submitted in the proper Notebook 4 repository in github?
 
 **Part 1: [1 point]** Clean and normalize the data (use the StandardScalar from sklearn). Replace any null values with the average of the columns. Verify that there are no null values by printing out the results of `housing_data.isna().any()`
 
